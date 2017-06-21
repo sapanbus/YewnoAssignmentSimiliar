@@ -1,0 +1,160 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/bandiboss/YewnoAssignmentSimiliar/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+6 items
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> /Users/bandiboss/YewnoAssignmentSimiliar/target/scala-2.11/classes/JaccardSimiliarScoreApp$$anonfun$1.class
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> /Users/bandiboss/YewnoAssignmentSimiliar/target/scala-2.11/classes/JaccardSimiliarScoreApp$$anonfun$2.class
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> /Users/bandiboss/YewnoAssignmentSimiliar/target/scala-2.11/classes/JaccardSimiliarScoreApp$$anonfun$3.class
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> /Users/bandiboss/YewnoAssignmentSimiliar/target/scala-2.11/classes/JaccardSimiliarScoreApp$$anonfun$main$1.class
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> /Users/bandiboss/YewnoAssignmentSimiliar/target/scala-2.11/classes/JaccardSimiliarScoreApp$.class
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> /Users/bandiboss/YewnoAssignmentSimiliar/target/scala-2.11/classes/JaccardSimiliarScoreApp.class
+binary dependencies:
+4 items
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> /Users/bandiboss/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.1.jar
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> /Users/bandiboss/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.1.1.jar
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> /Users/bandiboss/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+6 items
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> JaccardSimiliarScoreApp
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> JaccardSimiliarScoreApp$
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> JaccardSimiliarScoreApp$$anonfun$1
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> JaccardSimiliarScoreApp$$anonfun$2
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> JaccardSimiliarScoreApp$$anonfun$3
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> JaccardSimiliarScoreApp$$anonfun$main$1
+used names:
+64 items
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> +
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> <init>
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> <repeated>
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> A
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> Any
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> AnyRef
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> Array
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> ArrayOps
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> Builder
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> Class
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> ClassTag
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> Function1
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> Function2
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> Int
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> JaccardSimiliarScoreApp
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> K
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> Nothing
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> Object
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> Ordering
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> PairRDDFunctions
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> Predef
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> RDD
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> Seq
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> SparkContext
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> SparkSession
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> String
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> T
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> T1
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> T2
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> TraversableOnce
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> Tuple2
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> U
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> Unit
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> V
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> _$7
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> apache
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> appName
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> apply
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> builder
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> collection
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> counts
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> flatMap
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> foreach
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> getOrCreate
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> line
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> lines
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> map
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> master
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> materializeClassTag
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> math
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> org
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> package
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> parallelize
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> println
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> rdd
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> rddToPairRDDFunctions
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> reduceByKey
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> refArrayOps
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> scala
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> spark
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> sparkContext
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> split
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> sql
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> word
+product stamps:
+6 items
+/Users/bandiboss/YewnoAssignmentSimiliar/target/scala-2.11/classes/JaccardSimiliarScoreApp$$anonfun$1.class -> lastModified(1497830141000)
+/Users/bandiboss/YewnoAssignmentSimiliar/target/scala-2.11/classes/JaccardSimiliarScoreApp$$anonfun$2.class -> lastModified(1497830141000)
+/Users/bandiboss/YewnoAssignmentSimiliar/target/scala-2.11/classes/JaccardSimiliarScoreApp$$anonfun$3.class -> lastModified(1497830141000)
+/Users/bandiboss/YewnoAssignmentSimiliar/target/scala-2.11/classes/JaccardSimiliarScoreApp$$anonfun$main$1.class -> lastModified(1497830141000)
+/Users/bandiboss/YewnoAssignmentSimiliar/target/scala-2.11/classes/JaccardSimiliarScoreApp$.class -> lastModified(1497830141000)
+/Users/bandiboss/YewnoAssignmentSimiliar/target/scala-2.11/classes/JaccardSimiliarScoreApp.class -> lastModified(1497830141000)
+source stamps:
+1 items
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> hash(ec25138c88127433c0efdced6c0acb943ac87de0)
+binary stamps:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1481605174000)
+/Users/bandiboss/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.1.jar -> lastModified(1493167440000)
+/Users/bandiboss/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.1.1.jar -> lastModified(1493167860000)
+/Users/bandiboss/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/bandiboss/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.1.1.jar -> org.apache.spark.rdd.PairRDDFunctions
+/Users/bandiboss/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.1.1.jar -> org.apache.spark.sql.SparkSession$
+/Users/bandiboss/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.math.Ordering$
+internal apis:
+1 items
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwQuZ/gQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwyoXzGnQABm5vdGlmeXNxAH4ADB+yCHx0AAR3YWl0c3EAfgAMtdav+3QADSRhc0luc3RhbmNlT2ZzcQB+AAx+WapNdAAGZXF1YWxzc3EAfgAMO39yhHQADGFzSW5zdGFuY2VPZnNxAH4ADKeQSKN0AAxzeW5jaHJvbml6ZWRzcQB+AAwLhpqWdAANJGlzSW5zdGFuY2VPZnNxAH4ADKOU06B0AARtYWluc3EAfgAM4JkWOHQACW5vdGlmeUFsbHNxAH4ADKKyq/Z0AAxpc0luc3RhbmNlT2ZzcQB+AAzOrDRudAACPT1zcQB+AAy69Cl3dAAFY2xvbmVzcQB+AAwfG0XsdAAXSmFjY2FyZFNpbWlsaWFyU2NvcmVBcHBzcQB+AAwuZsrddAAIdG9TdHJpbmdzcQB+AAxMCGAYdAACIT1zcQB+AAyI/tJFdAAIZ2V0Q2xhc3NzcQB+AAwgO6eJdAACbmVzcQB+AAxf3lsvdAACZXFzcQB+AAw9hWgmdAACIyNzcQB+AAwmb4gRdAAIZmluYWxpemVzcQB+AAzh9S7xdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+ACd1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFhzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBdc3EAfgBYdXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAddXEAfgBQAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AFx0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBcc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB4dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AZXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AU3QABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AbFsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AXHNxAH4Aa3QABUFycmF5cQB+AHF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4Aa3QABlN0cmluZ3NxAH4Ab3NxAH4AcnVxAH4AdQAAAANzcQB+AHd0AARqYXZhc3EAfgB3dAAEbGFuZ3EAfgB8c3EAfgBYdXEAfgA8AAAAAHNxAH4AWHVxAH4AkAAAAAJzcQB+AGt0AAZPYmplY3RxAH4AlHNxAH4Aa3QAA0FueXEAfgBxdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVy9ofxIdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQi9Vc2Vycy9iYW5kaWJvc3MvWWV3bm9Bc3NpZ25tZW50U2ltaWxpYXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFOwlE4yIEnQzwO/c7WwKy5Q6yH3g
+external apis:
+0 items
+source infos:
+1 items
+/Users/bandiboss/YewnoAssignmentSimiliar/src/main/scala/JaccardSimiliarScoreApp.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXL2h/Eh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Vc2Vycy9iYW5kaWJvc3MvWWV3bm9Bc3NpZ25tZW50U2ltaWxpYXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
